@@ -1,6 +1,6 @@
 sceneSetups:
-- path: Assets/RealisticCarControllerV3/Demo Scenes/RCC Photon Scenes/RCC City Enter
-    Exit FPS (Photon PUN2).unity
+- path: Assets/RealisticCarControllerV3/Demo Scenes/RCC Photon Scenes/RCC Lobby (Photon
+    PUN2).unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

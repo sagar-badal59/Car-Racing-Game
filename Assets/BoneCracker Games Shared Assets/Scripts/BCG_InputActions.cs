@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/BoneCracker Games Shared Assets/Resources/BCG_InputActions.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/BoneCracker Games Shared Assets/BCG_InputActions.inputactions'
 
 using System;
 using System.Collections;

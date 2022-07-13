@@ -34,7 +34,19 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/RealisticCarControllerV3/Demo Scenes/RCC Multiple Terrain Test Scene.unity
     guid: 5b22dc09418f22845b6e8a126839d5b7
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scene/Demo1.unity
     guid: 57fd0447c9c49e54993f8f960c03e249
+  - enabled: 1
+    path: Assets/RealisticCarControllerV3/Demo Scenes/RCC Photon Scenes/RCC Lobby
+      (Photon PUN2).unity
+    guid: e8062292ace033f419d3db2f3f34a92e
+  - enabled: 1
+    path: Assets/RealisticCarControllerV3/Demo Scenes/RCC Photon Scenes/RCC City
+      (Photon PUN2).unity
+    guid: 1aa7ae7b1a3723a46aadcc7437afe839
+  - enabled: 1
+    path: Assets/RealisticCarControllerV3/Demo Scenes/RCC Photon Scenes/RCC City
+      Enter Exit FPS (Photon PUN2).unity
+    guid: 08ce832265f000d4dbdbeeb2fd79d1e5
   m_configObjects: {}

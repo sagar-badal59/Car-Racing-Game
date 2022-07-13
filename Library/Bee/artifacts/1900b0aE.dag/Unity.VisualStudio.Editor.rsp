@@ -126,6 +126,7 @@
 -define:PUN_2_OR_NEWER
 -define:PUN_2_19_OR_NEWER
 -define:RCC_PHOTON
+-define:BCG_ENTEREXITPHOTON
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"F:/Workspace/Unity/2022.1.3f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
